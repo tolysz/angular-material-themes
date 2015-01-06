@@ -1,0 +1,1 @@
+{ "name": "angular-material-themes", "version": "0.0.2", "dependencies": { "angular-material": ""},"main": ["themes.css"] }
